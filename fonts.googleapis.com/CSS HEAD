@@ -1,0 +1,4 @@
+.header-title-text a {
+  font-family: 'Lovelo Line', sans-serif;
+  text-shadow: 0px 0px 10px #fff, 0px 0px 20px #fff, 0px 0px 30px #fff, 0px 0px 40px #FF00DE, 0px 0px 70px #FF00DE, 0px 0px 80px #FF00DE, 0px 0px 100px #FF00DE, 0px 0px 150px #FF00DE;
+}
